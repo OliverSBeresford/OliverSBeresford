@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OliverSBeresford
-- 👀 I’m interested in creating fun coding projects.
+- 👀 I’m interested in creating useful coding projects.
 - 🌱 I’m currently learning more laguages like Python, C, C++, Java, and JavaScript, HTML, CSS.
 - Any help on projects is appreciated :)
 
