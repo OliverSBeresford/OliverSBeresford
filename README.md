@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @OliverSBeresford
+- I’m @OliverSBeresford
 - 👀 I’m interested in creating useful coding projects.
-- 🌱 I’m currently learning more laguages like Python, C, C++, Java, and JavaScript, HTML, CSS.
+- I have made projects in different languages like python, javascript/html/css, and the C's
+- I also enjoy robotics
 - Any help on projects is appreciated :)
 
 <!---
